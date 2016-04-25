@@ -4,7 +4,7 @@ A few days ago [Lauri Apple][lauri] and [Raffaele Di Fazio][raffo] approached me
 
 <h4 id="WHAT">What is the project about?</h4>
 
-The project aims to provide [Selenium][] inside a [docker][] container.
+The project aims to provide [Selenium] inside a [docker][] container.
 
 <h4 id="HOW">How did the project get started? Under what conditions/after what happened?</h4>
 
